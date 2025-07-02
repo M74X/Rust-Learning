@@ -1,0 +1,1 @@
+C:\Users\Admin\OneDrive\ -\ UNIVERSIDAD\ PRIVADA\ NORBERT\ WIENER\ S.A\Documentos\Programming\Rust\Rust-Learning\hello_cargo\target\debug\hello_cargo.exe: C:\Users\Admin\OneDrive\ -\ UNIVERSIDAD\ PRIVADA\ NORBERT\ WIENER\ S.A\Documentos\Programming\Rust\Rust-Learning\hello_cargo\src\main.rs
